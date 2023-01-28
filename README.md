@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @crankyMagician
-- 👀 I’m interested in Unity Application Developement, C#, ASP .NET, OpenCV, Machine Learning
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on any applications that will further my skillset. 
-- 📫 Reach out and connect with me on LinkedIn @ https://www.linkedin.com/in/sam-redpath-931a00166/
+Welcome to my Github! 🎉
+
+I am a Unity Application Developer with a passion for C#, ASP .NET, OpenCV, Machine Learning, Python, and C++.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/sam-redpath-931a00166/) and my personal website SamRedpath.com
+Technologies I am interested in:
+
+    Unity Application Development 🎮
+    C# 💻
+    ASP .NET 🕸
+    OpenCV 📷
+    Machine Learning 🤖
+    Python 🐍
+
+Technologies I am actively working with:
+
+    C++ 🚀
