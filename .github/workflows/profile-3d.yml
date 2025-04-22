@@ -1,8 +1,11 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 6 * * *"     # Runs daily at 11:00 pm 
+    - cron: "2 7 * * *"     # Runs daily at 11:02 PM PST (07:02 UTC)
   workflow_dispatch:
 
 jobs:
@@ -23,4 +26,4 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated 3D calendar with private contributions"
-          git push 
+          git push
