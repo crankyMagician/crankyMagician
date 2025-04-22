@@ -89,8 +89,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=✨+🪄+🔮+MAGICAL+CONTRIBUTION+CALENDAR+🔮+🪄+✨&font=Fira+Code&center=true&width=800&height=50&color=F78C6C&vCenter=true&pause=1000&size=28" alt="Magical Contribution Calendar" />
   </h2>
 
-  <!-- MAGICAL SPARKLING DIVIDER -->
-  <img src="https://camo.githubusercontent.com/3f0a4eb0ce0b01cd0ea8d6a5119b7b9d5b3e71cd51feeb38c5eae45cd9a0b1e3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d382c392c31302c3131266865696768743d3530" width="100%" />
+
 
   <!-- MAGICAL HARRY POTTER STYLE WIZARD IMAGE -->
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmEwYXpiaW53dWswODFpZHF4bjhmcDJobDltb3c2bDA3Z3U3Ync4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0qxVeyQ3bSLWbC/giphy.gif" width="180px" style="margin: 10px 0;" alt="Magical Wizard Casting Spell" />
