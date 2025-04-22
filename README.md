@@ -39,8 +39,10 @@
 <!-- ARCANE SKILLS SECTION WITH GLOWING EFFECT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" alt="Divider" />
-  <h2 style="background: linear-gradient(to right, #C792EA, #89DDFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; margin-top: 20px;">
-    🧙‍♂️ ✨ ARCANE SKILLS & MYSTICAL POWERS ✨ 🪄
+
+  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🧙‍♂️+ARCANE+SKILLS+%26+MYSTICAL+POWERS+🪄+✨&font=Fira+Code&center=true&width=800&height=50&color=C792EA&vCenter=true&pause=1000&size=28" alt="Arcane Skills & Mystical Powers" />
   </h2>
 </div>
 
@@ -65,25 +67,33 @@
   <img src="https://github-profile-trophy.vercel.app/?username=crankyMagician&theme=discord&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
-<!-- MAGICAL WISDOM SCROLLS WITH TYPING EFFECT -->
-<div align="center" style="margin: 30px 0; padding: 20px; background: linear-gradient(45deg, #192133, #111927, #192133); border-radius: 10px; box-shadow: 0 0 15px #C792EA;">
-  <h3 style="color: #C792EA; font-size: 24px; margin-bottom: 20px; text-shadow: 0 0 5px rgba(201, 146, 234, 0.7);">✨ MAGICAL WISDOM SCROLLS ✨</h3>
+<!-- MAGICAL WISDOM SCROLLS SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" alt="Divider" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🪄+%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22+―+Arthur+C.+Clarke;🪄+%22Don't+call+it+a+bug...+call+it+an+unexpected+feature!%22+―+The+CrankyMagician;🪄+%22The+world+is+full+of+magic+things,+patiently+waiting+for+our+senses+to+grow+sharper.%22+―+W.B.+Yeats;🪄+%22Magic+is+believing+in+yourself.+If+you+can+do+that,+you+can+make+anything+happen.%22+―+Goethe;🪄+%22The+compiler+is+always+right,+except+when+it's+not.%22+―+The+CrankyMagician&font=Fira%20Code&center=true&width=850&height=80&color=89DDFF&vCenter=true&pause=2000&size=18" alt="Magical Quotes" />
-  </a>
+  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🔮+MAGICAL+WISDOM+SCROLLS+🪄+✨&font=Fira+Code&center=true&width=800&height=50&color=89DDFF&vCenter=true&pause=1000&size=28" alt="Magical Wisdom Scrolls" />
+  </h2>
+
+![Magic Quotes](https://readme-typing-svg.demolab.com/?lines=🪄+Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.+―+Arthur+C.+Clarke;🪄+The+world+is+full+of+magic+things,+patiently+waiting+for+our+senses+to+grow+sharper.+―+W.B.+Yeats;🪄+Magick+is+the+science+and+art+of+causing+change+to+occur+in+conformity+with+the+Will.+―+Aleister+Crowley;🪄+Magic+is+believing+in+yourself,+if+you+can+do+that,+you+can+make+anything+happen.+―+Goethe;🪄+Whatever+you+think+you+can+do+or+believe+you+can+do,+begin+it.+Action+has+magic,+grace+and+power+in+it.+―+Goethe;🪄+Don't+call+it+a+bug...+call+it+an+unexpected+feature!;🪄+The+compiler+is+always+right,+except+when+it's+not.&font=Fira+Code&center=true&width=800&height=50&color=89DDFF&vCenter=true&pause=1500&size=16&duration=4000)
+
 </div>
 
 <!-- 3D CONTRIBUTION CALENDAR WITH GITHUB ACTION SETUP -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
-  <h2 style="background: linear-gradient(to right, #F78C6C, #89DDFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; margin-top: 20px;">
-    🪄 ✨ MAGICAL CONTRIBUTION CALENDAR ✨ 🧪
+
+  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🪄+🔮+MAGICAL+CONTRIBUTION+CALENDAR+🔮+🪄+✨&font=Fira+Code&center=true&width=800&height=50&color=F78C6C&vCenter=true&pause=1000&size=28" alt="Magical Contribution Calendar" />
   </h2>
 
-<!-- MAGICAL HARRY POTTER STYLE WIZARD IMAGE -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmEwYXpiaW53dWswODFpZHF4bjhmcDJobDltb3c2bDA3Z3U3Ync4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0qxVeyQ3bSLWbC/giphy.gif" width="180px" style="margin: 10px 0;" alt="Magical Wizard Casting Spell" />
+  <!-- MAGICAL SPARKLING DIVIDER -->
+  <img src="https://camo.githubusercontent.com/3f0a4eb0ce0b01cd0ea8d6a5119b7b9d5b3e71cd51feeb38c5eae45cd9a0b1e3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d382c392c31302c3131266865696768743d3530" width="100%" />
 
+  <!-- MAGICAL HARRY POTTER STYLE WIZARD IMAGE -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmEwYXpiaW53dWswODFpZHF4bjhmcDJobDltb3c2bDA3Z3U3Ync4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0qxVeyQ3bSLWbC/giphy.gif" width="180px" style="margin: 10px 0;" alt="Magical Wizard Casting Spell" />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
@@ -93,7 +103,17 @@
 
 </div>
 
-<!-- GITHUB METRICS -->
+<!-- GITHUB METRICS SECTION WITH IMPROVED LAYOUT -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
+
+  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+📊+MAGICAL+METRICS+%26+ENCHANTED+STATS+📈+✨&font=Fira+Code&center=true&width=800&height=50&color=C792EA&vCenter=true&pause=1000&size=28" alt="Magical Metrics & Enchanted Stats" />
+  </h2>
+</div>
+
+<!-- GITHUB METRICS BADGES -->
 <div align="center" style="margin-top:20px; display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
   <img src="https://img.shields.io/github/watchers/crankyMagician/crankyMagician?style=flat-square&label=Watchers" alt="Watchers" />
   <img src="https://img.shields.io/github/forks/crankyMagician/crankyMagician?style=flat-square&label=Forks" alt="Forks" />
@@ -103,15 +123,18 @@
   <img src="https://img.shields.io/github/license/crankyMagician/crankyMagician?style=flat-square&label=License" alt="License" />
 </div>
 
-  <!-- GITHUB PROFILE DETAILS -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crankyMagician&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
+<!-- GITHUB PROFILE DETAILS WITH PROPER CENTERING -->
+<div align="center" style="margin-top:20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crankyMagician&theme=tokyonight" width="95%" alt="GitHub Profile Details" />
 </div>
 
 <!-- MAGICAL COMMUNICATION PORTALS -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
-  <h2 style="background: linear-gradient(to right, #89DDFF, #A6ACCD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; margin-top: 20px;">
-    🧿 ✨ MAGICAL COMMUNICATION PORTALS ✨ 📬
+
+  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🧿+MAGICAL+COMMUNICATION+PORTALS+📬+✨&font=Fira+Code&center=true&width=800&height=50&color=89DDFF&vCenter=true&pause=1000&size=28" alt="Magical Communication Portals" />
   </h2>
 </div>
 
@@ -129,16 +152,31 @@
 </div>
 
 <!-- VISITOR COUNTER WITH MAGICAL ANIMATION -->
-<div align="center" style="margin: 30px 0; background: linear-gradient(45deg, #192133, #111927, #192133); padding: 20px; border-radius: 10px; box-shadow: 0 0 15px #89DDFF;">
-  <h3 style="color: #C792EA; font-size: 24px; margin-bottom: 10px;">✨ VISITORS TO MY REALM ✨</h3>
-  <img src="https://profile-counter.glitch.me/crankyMagician/count.svg" alt="Visitor Count" style="border-radius: 5px; box-shadow: 0 0 10px rgba(201, 146, 234, 0.7);" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
+
+  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+👁️+VISITORS+TO+MY+REALM+👁️+✨&font=Fira+Code&center=true&width=800&height=50&color=C792EA&vCenter=true&pause=1000&size=28" alt="Visitors To My Realm" />
+  </h2>
+
+  <div style="margin: 20px 0; background: linear-gradient(45deg, #192133, #111927, #192133); padding: 20px; border-radius: 10px; box-shadow: 0 0 15px #89DDFF;">
+    <img src="https://profile-counter.glitch.me/crankyMagician/count.svg" alt="Visitor Count" style="border-radius: 5px; box-shadow: 0 0 10px rgba(201, 146, 234, 0.7);" />
+  </div>
 </div>
 
-
-
 <!-- FUNNY OUTRO WITH ENHANCED MAGICAL EFFECT -->
-<div align="center" style="margin: 40px 0; background: linear-gradient(45deg, rgba(25, 33, 51, 0.8), rgba(17, 25, 39, 0.8), rgba(25, 33, 51, 0.8)); padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(201, 146, 234, 0.3);">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🧙‍♂️%20If%20my%20code%20seems%20chaotic...;✨%20...it's%20because%20I've%20woven%20spells%20into%20it!;🔮%20Each%20bug%20is%20actually%20a%20trapped%20spirit...;🪄%20...waiting%20to%20grant%20wishes%20to%20worthy%20developers!&center=true&width=700&height=120&color=C792EA&vCenter=true&size=20&pause=1000&duration=3000" alt="Coding Humor" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
+
+  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🧙‍♂️+MAGICAL+DEVELOPER+HUMOR+😄+✨&font=Fira+Code&center=true&width=800&height=50&color=F78C6C&vCenter=true&pause=1000&size=28" alt="Magical Developer Humor" />
+  </h2>
+
+  <div style="margin: 20px 0; background: linear-gradient(45deg, rgba(25, 33, 51, 0.8), rgba(17, 25, 39, 0.8), rgba(25, 33, 51, 0.8)); padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(201, 146, 234, 0.3);">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🧙‍♂️%20If%20my%20code%20seems%20chaotic...;✨%20...it's%20because%20I've%20woven%20spells%20into%20it!;🔮%20Each%20bug%20is%20actually%20a%20trapped%20spirit...;🪄%20...waiting%20to%20grant%20wishes%20to%20worthy%20developers!&center=true&width=700&height=120&color=C792EA&vCenter=true&size=20&pause=1000&duration=3000" alt="Coding Humor" />
+  </div>
 </div>
 
 <!-- MAGICAL SPARKLES ANIMATION -->
