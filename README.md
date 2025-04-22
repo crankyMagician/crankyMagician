@@ -40,10 +40,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" alt="Divider" />
 
-  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🧙‍♂️+ARCANE+SKILLS+%26+MYSTICAL+POWERS+🪄+✨&font=Fira+Code&center=true&width=800&height=50&color=C792EA&vCenter=true&pause=1000&size=28" alt="Arcane Skills & Mystical Powers" />
-  </h2>
+
 </div>
 
 <div align="center" style="margin: 20px 0;">
@@ -71,10 +68,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" alt="Divider" />
 
-  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🔮+MAGICAL+WISDOM+SCROLLS+🪄+✨&font=Fira+Code&center=true&width=800&height=50&color=89DDFF&vCenter=true&pause=1000&size=28" alt="Magical Wisdom Scrolls" />
-  </h2>
 
 ![Magic Quotes](https://readme-typing-svg.demolab.com/?lines=🪄+Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.+―+Arthur+C.+Clarke;🪄+The+world+is+full+of+magic+things,+patiently+waiting+for+our+senses+to+grow+sharper.+―+W.B.+Yeats;🪄+Magick+is+the+science+and+art+of+causing+change+to+occur+in+conformity+with+the+Will.+―+Aleister+Crowley;🪄+Magic+is+believing+in+yourself,+if+you+can+do+that,+you+can+make+anything+happen.+―+Goethe;🪄+Whatever+you+think+you+can+do+or+believe+you+can+do,+begin+it.+Action+has+magic,+grace+and+power+in+it.+―+Goethe;🪄+Don't+call+it+a+bug...+call+it+an+unexpected+feature!;🪄+The+compiler+is+always+right,+except+when+it's+not.&font=Fira+Code&center=true&width=800&height=50&color=89DDFF&vCenter=true&pause=1500&size=16&duration=4000)
 
@@ -83,11 +76,6 @@
 <!-- 3D CONTRIBUTION CALENDAR WITH GITHUB ACTION SETUP -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
-
-  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🪄+🔮+MAGICAL+CONTRIBUTION+CALENDAR+🔮+🪄+✨&font=Fira+Code&center=true&width=800&height=50&color=F78C6C&vCenter=true&pause=1000&size=28" alt="Magical Contribution Calendar" />
-  </h2>
 
 
 
@@ -106,10 +94,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
 
-  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✨+📊+MAGICAL+METRICS+%26+ENCHANTED+STATS+📈+✨&font=Fira+Code&center=true&width=800&height=50&color=C792EA&vCenter=true&pause=1000&size=28" alt="Magical Metrics & Enchanted Stats" />
-  </h2>
 </div>
 
 <!-- GITHUB METRICS BADGES -->
@@ -131,11 +115,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
 
-  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🧿+MAGICAL+COMMUNICATION+PORTALS+📬+✨&font=Fira+Code&center=true&width=800&height=50&color=89DDFF&vCenter=true&pause=1000&size=28" alt="Magical Communication Portals" />
-  </h2>
-</div>
 
 <!-- GLOWING CONTACT BUTTONS -->
 <div align="center" style="margin: 20px 0;">
@@ -161,20 +140,6 @@
 
   <div style="margin: 20px 0; background: linear-gradient(45deg, #192133, #111927, #192133); padding: 20px; border-radius: 10px; box-shadow: 0 0 15px #89DDFF;">
     <img src="https://profile-counter.glitch.me/crankyMagician/count.svg" alt="Visitor Count" style="border-radius: 5px; box-shadow: 0 0 10px rgba(201, 146, 234, 0.7);" />
-  </div>
-</div>
-
-<!-- FUNNY OUTRO WITH ENHANCED MAGICAL EFFECT -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,19,22,25&height=1&section=header" width="100%" />
-
-  <!-- MAGICAL EMOJI HEADER WITH SPARKLE EFFECT -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✨+🧙‍♂️+MAGICAL+DEVELOPER+HUMOR+😄+✨&font=Fira+Code&center=true&width=800&height=50&color=F78C6C&vCenter=true&pause=1000&size=28" alt="Magical Developer Humor" />
-  </h2>
-
-  <div style="margin: 20px 0; background: linear-gradient(45deg, rgba(25, 33, 51, 0.8), rgba(17, 25, 39, 0.8), rgba(25, 33, 51, 0.8)); padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(201, 146, 234, 0.3);">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🧙‍♂️%20If%20my%20code%20seems%20chaotic...;✨%20...it's%20because%20I've%20woven%20spells%20into%20it!;🔮%20Each%20bug%20is%20actually%20a%20trapped%20spirit...;🪄%20...waiting%20to%20grant%20wishes%20to%20worthy%20developers!&center=true&width=700&height=120&color=C792EA&vCenter=true&size=20&pause=1000&duration=3000" alt="Coding Humor" />
   </div>
 </div>
 
