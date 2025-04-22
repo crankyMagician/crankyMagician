@@ -65,15 +65,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=crankyMagician&theme=discord&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
-<!-- MAGICAL QUOTE WITH GLOWING EFFECT -->
+<!-- MAGICAL WISDOM SCROLLS WITH TYPING EFFECT -->
 <div align="center" style="margin: 30px 0; padding: 20px; background: linear-gradient(45deg, #192133, #111927, #192133); border-radius: 10px; box-shadow: 0 0 15px #C792EA;">
-  <h3 style="color: #C792EA; font-size: 24px; margin-bottom: 10px; text-shadow: 0 0 5px rgba(201, 146, 234, 0.7);">✨ MAGICAL WISDOM ✨</h3>
-  <p style="color: #A6ACCD; font-size: 20px; font-style: italic; margin: 10px 0; text-shadow: 0 0 3px rgba(166, 172, 205, 0.5);">
-    "Don't call it a bug... call it an unexpected feature!"
-  </p>
-  <p style="color: #89DDFF; font-size: 16px; margin-top: 5px; text-shadow: 0 0 3px rgba(137, 221, 255, 0.5);">
-    ~ The CrankyMagician's Book of Code
-  </p>
+  <h3 style="color: #C792EA; font-size: 24px; margin-bottom: 20px; text-shadow: 0 0 5px rgba(201, 146, 234, 0.7);">✨ MAGICAL WISDOM SCROLLS ✨</h3>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🪄+%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22+―+Arthur+C.+Clarke;🪄+%22Don't+call+it+a+bug...+call+it+an+unexpected+feature!%22+―+The+CrankyMagician;🪄+%22The+world+is+full+of+magic+things,+patiently+waiting+for+our+senses+to+grow+sharper.%22+―+W.B.+Yeats;🪄+%22Magic+is+believing+in+yourself.+If+you+can+do+that,+you+can+make+anything+happen.%22+―+Goethe;🪄+%22The+compiler+is+always+right,+except+when+it's+not.%22+―+The+CrankyMagician&font=Fira%20Code&center=true&width=850&height=80&color=89DDFF&vCenter=true&pause=2000&size=18" alt="Magical Quotes" />
+  </a>
 </div>
 
 <!-- 3D CONTRIBUTION CALENDAR WITH GITHUB ACTION SETUP -->
@@ -93,67 +91,21 @@
     <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%">
   </picture>
 
-  <!-- Year Selector - Fixed spacing -->
-  <div style="margin-top: 0;">
-    <a href="https://github.com/crankyMagician?tab=overview&from=2024-01-01&to=2024-12-31" style="display: inline-block; padding: 8px 16px; margin: 5px; background: linear-gradient(45deg, #C792EA, #89DDFF); color: #0D1117; border-radius: 5px; text-decoration: none; font-weight: bold;">2024</a>
-    <a href="https://github.com/crankyMagician?tab=overview&from=2023-01-01&to=2023-12-31" style="display: inline-block; padding: 8px 16px; margin: 5px; background: linear-gradient(45deg, #F78C6C, #C792EA); color: #0D1117; border-radius: 5px; text-decoration: none; font-weight: bold;">2023</a>
-    <a href="https://github.com/crankyMagician?tab=overview&from=2022-01-01&to=2022-12-31" style="display: inline-block; padding: 8px 16px; margin: 5px; background: linear-gradient(45deg, #FFCB6B, #F78C6C); color: #0D1117; border-radius: 5px; text-decoration: none; font-weight: bold;">2022</a>
-    <a href="https://github.com/crankyMagician?tab=overview&from=2021-01-01&to=2021-12-31" style="display: inline-block; padding: 8px 16px; margin: 5px; background: linear-gradient(45deg, #89DDFF, #82AAFF); color: #0D1117; border-radius: 5px; text-decoration: none; font-weight: bold;">2021</a>
-  </div>
 </div>
 
-<!-- MORE STATS CARDS - SIMPLIFIED -->
-<div align="center" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- WEEKLY CODING STATS -->
-  <div style="width: 48%; background: linear-gradient(45deg, rgba(25, 33, 51, 0.8), rgba(17, 25, 39, 0.8)); border-radius: 10px; padding: 15px; box-shadow: 0 0 15px rgba(201, 146, 234, 0.3);">
-    <h3 style="color: #C792EA; margin-bottom: 15px; text-align: center; text-shadow: 0 0 5px rgba(201, 146, 234, 0.5);">✨ WEEKLY CODING RITUAL ✨</h3>
-    <div style="color: #A6ACCD; text-align: left; padding: 0 10px;">
-      <p>🧙‍♂️ <strong style="color: #89DDFF;">C#:</strong> <span style="float: right;">16 hrs 42 mins</span></p>
-      <p>🧙‍♂️ <strong style="color: #C3E88D;">Python:</strong> <span style="float: right;">8 hrs 15 mins</span></p>
-      <p>🧙‍♂️ <strong style="color: #F78C6C;">JavaScript:</strong> <span style="float: right;">5 hrs 30 mins</span></p>
-      <p>🧙‍♂️ <strong style="color: #FFCB6B;">Unity:</strong> <span style="float: right;">10 hrs 05 mins</span></p>
-      <p>🧙‍♂️ <strong style="color: #C792EA;">XAML:</strong> <span style="float: right;">3 hrs 18 mins</span></p>
-    </div>
-  </div>
+<!-- GITHUB METRICS -->
+<div align="center" style="margin-top:20px; display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <img src="https://img.shields.io/github/watchers/crankyMagician/crankyMagician?style=flat-square&label=Watchers" alt="Watchers" />
+  <img src="https://img.shields.io/github/forks/crankyMagician/crankyMagician?style=flat-square&label=Forks" alt="Forks" />
+  <img src="https://img.shields.io/github/contributors/crankyMagician/crankyMagician?style=flat-square&label=Contributors" alt="Contributors" />
+  <img src="https://img.shields.io/github/commit-activity/m/crankyMagician/crankyMagician?style=flat-square&label=Commits%20This%20Month" alt="Commits This Month" />
+  <img src="https://img.shields.io/github/release/crankyMagician/crankyMagician?style=flat-square&label=Latest%20Release" alt="Latest Release" />
+  <img src="https://img.shields.io/github/license/crankyMagician/crankyMagician?style=flat-square&label=License" alt="License" />
+</div>
 
   <!-- GITHUB PROFILE DETAILS -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crankyMagician&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
 </div>
-
-<!-- GitHub Action Configuration Instructions -->
-<!--
-To implement the 3D calendar:
-1. Create .github/workflows/profile-3d.yml with the following:
-
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
--->
-
-
-
-
 
 <!-- MAGICAL COMMUNICATION PORTALS -->
 <div align="center">
@@ -168,27 +120,18 @@ jobs:
   <a href="https://www.linkedin.com/in/sam-redpath-931a00166/">
     <img src="https://img.shields.io/badge/LinkedIn-🔮-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://www.SamRedpath.com">
-    <img src="https://img.shields.io/badge/Website-✨-333333?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=4285F4&color=5C97FF" alt="Website" />
+  <a href="https://crankymagician.com">
+    <img src="https://img.shields.io/badge/Website-🧙‍♂️-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOC4xNDQgMTIuMzYyYy0uMDQzLS42OTYtLjMwNS0xLjM1LS43MTktMS44NTZsLTUuMTQ5IDIuOTQ4Ljk0OCAzLjExM2MuNjYtLjA1NiAxLjE1MS0uMDgyIDEuNDkyLS4wNTIgMS40MjUuMTMgMi42MzUtLjM1OCAzLjQyOC0xLjY2LjM1Mi0uNTc3LjQzNC0xLjQxMSAwLTIuNDkzek03LjE0MiAxNC41MzFsLS40MS0xLjM0N2MtLjQ1MS0xLjIyLS40MzgtMS45MzktLjQzNi0xLjk1NWwuMDAxLS4wMDZjLjAxNy0yLjEyMiAyLjkxLTMuOTc2IDIuOTEtMy45NzZsLTIuMTQzLTMuNTkxYy0zLjI0MSAxLjk5MS01LjIzIDYuMDI2LTUuMDU4IDEwLjA5NC4yMDQgNC4yMDQgMi43MzcgNi44ODMgMi43MzcgNi44ODNsNC41MjgtMi44NDgtMS4xMzUtMy4yMDRjLS40MTQuMDA3LS44LjAyMS0uOTk0LjA1ek0xOS4xMyAxNi45OTFsLTMuODgyLTEuMy0xLjIwMyAzLjI2MmMyLjA0My0uMTY0IDMuOTU2LTEuMDQxIDUuMDg1LTEuOTYyek0xMiA0Yy0uNDcgMC0uOTI3LjA0OS0xLjM3Mi4xMjJsMy42MTUgMy45MS4wNDgtMi45MzdDMTMuNDMyIDQuMzkgMTIuNzQgNCAxMiA0eiIvPjwvc3ZnPg==&logoColor=white&labelColor=4285F4&color=5C97FF" alt="Website" />
   </a>
   <a href="https://github.com/crankyMagician">
-    <img src="https://img.shields.io/badge/GitHub-🧙‍♂️-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=2D333B" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-📦-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=2D333B" alt="GitHub" />
   </a>
 </div>
 
 <!-- VISITOR COUNTER WITH MAGICAL ANIMATION -->
 <div align="center" style="margin: 30px 0; background: linear-gradient(45deg, #192133, #111927, #192133); padding: 20px; border-radius: 10px; box-shadow: 0 0 15px #89DDFF;">
-  <h3 style="color: #C792EA; font-size: 24px; margin-bottom: 10px;">✨ SPELL CASTERS VISITING MY REALM ✨</h3>
+  <h3 style="color: #C792EA; font-size: 24px; margin-bottom: 10px;">✨ VISITORS TO MY REALM ✨</h3>
   <img src="https://profile-counter.glitch.me/crankyMagician/count.svg" alt="Visitor Count" style="border-radius: 5px; box-shadow: 0 0 10px rgba(201, 146, 234, 0.7);" />
-</div>
-
-<!-- PHIL COLLINS MUSIC SECTION -->
-<div align="center" style="margin: 30px 0; background: linear-gradient(45deg, #192133, #111927, #192133); padding: 20px; border-radius: 10px; box-shadow: 0 0 15px #C792EA;">
-  <h3 style="color: #C792EA; margin-bottom: 15px; text-align: center; text-shadow: 0 0 5px rgba(201, 146, 234, 0.5);">🧙‍♂️ CURRENTLY ENCHANTING THE REALM 🧙‍♂️</h3>
-  <a href="https://open.spotify.com/track/0jXbQ55TuUf1QnSDXnwsor" target="_blank">
-    <img src="https://spotify-now-playing-sigma-sage.vercel.app/api/spotify-playing" alt="Phil Collins - In The Air Tonight" width="350" />
-  </a>
-  <p style="color: #89DDFF; font-size: 14px; margin-top: 10px;">🔮 Phil Collins - In The Air Tonight 🔮</p>
 </div>
 
 
